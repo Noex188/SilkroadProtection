@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9DEF055D-AD44-450F-9D52-F82B2E675F90}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sroprot</RootNamespace>
+    <AssemblyName>sroprot</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Adorabletoon-Animal-Squirrel.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\CommandManager.cs" />
+    <Compile Include="Core\ConfigManager.cs" />
+    <Compile Include="Core\DatabaseManager.cs" />
+    <Compile Include="Core\LogManager.cs" />
+    <Compile Include="Core\ModuleCrashManager.cs" />
+    <Compile Include="Core\ServerManager.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="NetEngine\AgentServer\Alchemy.cs" />
+    <Compile Include="NetEngine\AgentServer\ArenaNotify.cs" />
+    <Compile Include="NetEngine\AgentServer\ArenaRegistration.cs" />
+    <Compile Include="NetEngine\AgentServer\AutoNotice.cs" />
+    <Compile Include="NetEngine\AgentServer\CharSelect.cs" />
+    <Compile Include="NetEngine\AgentServer\ChatMessage.cs" />
+    <Compile Include="NetEngine\AgentServer\DisableAcademyInvite.cs" />
+    <Compile Include="NetEngine\AgentServer\ExchangeRequest.cs" />
+    <Compile Include="NetEngine\AgentServer\FlagRegistration.cs" />
+    <Compile Include="NetEngine\AgentServer\GmAccessControl.cs" />
+    <Compile Include="NetEngine\AgentServer\GuildInvite.cs" />
+    <Compile Include="NetEngine\AgentServer\ItemMallBuy.cs" />
+    <Compile Include="NetEngine\AgentServer\ItemMallToken.cs" />
+    <Compile Include="NetEngine\AgentServer\LoginNotice.cs" />
+    <Compile Include="NetEngine\AgentServer\LogoutCancel.cs" />
+    <Compile Include="NetEngine\AgentServer\LogoutRequest.cs" />
+    <Compile Include="NetEngine\AgentServer\SafeRegion.cs" />
+    <Compile Include="NetEngine\AgentServer\SafeRegionSkill.cs" />
+    <Compile Include="NetEngine\AgentServer\SecurityFilter.cs" />
+    <Compile Include="NetEngine\AgentServer\SilkDisplay.cs" />
+    <Compile Include="NetEngine\AgentServer\StallCooldown.cs" />
+    <Compile Include="NetEngine\AgentServer\StartIntro.cs" />
+    <Compile Include="NetEngine\AgentServer\StaticAnnounce.cs" />
+    <Compile Include="NetEngine\AgentServer\UnionInvite.cs" />
+    <Compile Include="NetEngine\AgentServer\UserAuth.cs" />
+    <Compile Include="NetEngine\AgentServer\WaterTempleTeleport.cs" />
+    <Compile Include="NetEngine\DelayedPacketDispatcher.cs" />
+    <Compile Include="NetEngine\GatewayServer\AgentRedirect.cs" />
+    <Compile Include="NetEngine\GatewayServer\AutoCaptcha.cs" />
+    <Compile Include="NetEngine\GatewayServer\DownloadRedirect.cs" />
+    <Compile Include="NetEngine\GatewayServer\ServerListResponse.cs" />
+    <Compile Include="NetEngine\GatewayServer\UserLogin.cs" />
+    <Compile Include="NetEngine\PacketDispatcher.cs" />
+    <Compile Include="NetEngine\RelaySession.cs" />
+    <Compile Include="NetEngine\RelaySessionState.cs" />
+    <Compile Include="NetEngine\SilkroadServer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SSA\Blowfish.cs" />
+    <Compile Include="SSA\Packet.cs" />
+    <Compile Include="SSA\PacketReader.cs" />
+    <Compile Include="SSA\PacketWriter.cs" />
+    <Compile Include="SSA\Security.cs" />
+    <Compile Include="SSA\TransferBuffer.cs" />
+    <Compile Include="Utility.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Adorabletoon-Animal-Squirrel.ico" />
+    <Content Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppForms\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4700 @@
+[29.08.2015 17:45:13]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 17:45:13]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 17:45:13]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:45:13]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 17:45:13]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:45:13]
+[ClientToModule, 0x6104, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16                                                ................
+   
+
+
+[29.08.2015 17:45:13]
+[ModuleToClient, 0xA104, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:13
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 17:45:17]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 17:45:17]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 17:45:17]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:45:17]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 17:45:17]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:45:22]
+[ClientToModule, 0x6106, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:22]
+[ModuleToClient, 0xA106, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 19 5E EB 7D                                 ...^ë}..........
+   
+
+
+[29.08.2015 17:45:22]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:22]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 17:45:27]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:34]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:40]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:42]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:42]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 17:45:48]
+[ClientToModule, 0x6102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+server_64 = 0
+[RelaySessionState dump end]
+0000000000   16 04 00 74 65 73 74 03 00 31 32 33 40 00         ...test..123@...
+   
+
+
+[29.08.2015 17:45:48]
+[ModuleToClient, 0x2322, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+server_64 = 0
+[RelaySessionState dump end]
+0000000000   00 D3 01 CB 01 C8 32 C8 00 40 00 78 DA 6D 54 31   .Ó.Ë.È2È.@.xÚmT1
+0000000016   6E 43 21 0C C5 FE B4 A5 55 86 AF 4E E9 12 91 28   nC!.Åþ´¥U.¯Né..(
+0000000032   43 C7 1C 20 03 CA 09 7A 84 1C 23 23 AA 3A 74 CC   CÇ. .Ê.z..##ª:tÌ
+0000000048   91 72 94 7F 84 1C 20 52 FB B1 31 18 12 14 05 3E   .r.... Rû±1....>
+0000000064   B6 9F 9F 1F 18 63 E6 B1 89 46 0D AF D6 C1 F4 63   ¶....cæ±.F.¯ÖÁôc
+0000000080   E4 E9 68 0C 3A 5E 42 B6 D8 D8 47 D3 88 F1 1E 96   äéh.:^B¶ØØGÓ.ñ..
+0000000096   81 83 36 04 83 05 3E ED 38 E0 B5 D5 21 67 4F 5E   ..6...>í8àµÕ!gO^
+0000000112   E3 1D AB 05 BB 39 83 CC 26 92 CF BC 46 FA 19 A7   ã.«.»9.Ì&.Ï¼Fú.§
+0000000128   B9 D3 58 B3 BF AB FC 33 5D A9 A6 2D DE A5 2F 68   ¹ÓX³¿«ü3]©¦-Þ¥/h
+0000000144   09 E5 B1 CB 33 5A 53 32 61 CA EA C4 D0 AB 67 95   .å±Ë3ZS2aÊêÄÐ«g.
+0000000160   A1 91 45 8A 83 E2 C2 E6 48 99 DF 7A AE 95 A2 B0   ¡.E..âÂæH.ßz®.¢°
+0000000176   7E E9 0F 31 12 12 5C A0 32 78 55 11 78 05 A9 4F   ~é.1..\ 2xU.x.©O
+0000000192   D8 1E 78 BA 0D 02 F1 DC E6 BA 0D 22 23 B4 86 3F   Ø.xº..ñÜæº."#´.?
+0000000208   29 35 4A C9 6B 47 C8 53 CF 16 33 F4 24 F0 BE BB   )5JÉkGÈSÏ.3ô$ð¾»
+0000000224   5D 27 91 69 29 86 77 F6 39 99 7A 3C CC 7A E4 D8   ]'.i).wö9.z<ÌzäØ
+0000000240   09 5A B1 C1 3B 86 9D C0 B6 6C A5 D0 53 9E 2F 74   .Z±Á;..À¶l¥ÐS./t
+0000000256   D7 D2 BE 65 69 AE EC 04 F5 64 32 C2 F4 44 E8 61   ×Ò¾ei®ì.õd2ÂôDèa
+0000000272   1C 45 EF 9F B3 E1 88 A0 91 E7 2A 32 8B 7D 0B 90   .Eï.³á. .ç*2.}..
+0000000288   E8 0D 84 7B E5 A2 E3 50 44 81 26 A2 36 64 00 34   è..{å¢ãPD.&¢6d.4
+0000000304   85 55 73 27 4B 44 E9 19 6B 53 6E 89 CD 5A 2D 0B   .Us'KDé.kSn.ÍZ-.
+0000000320   29 6D F0 89 94 CD 30 02 BA EA EF 6B 60 D8 B8 EA   )mð..Í0.ºêïk`Ø¸ê
+0000000336   24 34 C1 D3 1A F7 C2 36 97 EE B6 CD 85 3C 12 16   $4ÁÓ.÷Â6.î¶Í.<..
+0000000352   4A 97 20 67 C4 74 9C 05 AE 7D 17 3E EB 55 19 AB   J. gÄt..®}.>ëU.«
+0000000368   A0 22 A1 27 EF 51 91 C9 52 5B F2 A5 66 96 1E FA    "¡'ïQ.ÉR[ò¥f..ú
+0000000384   FD D0 DD 8B 0F DF B4 F9 09 AB 47 63 B7 2A 97 D5   ýÐÝ..ß´ù.«Gc·*.Õ
+0000000400   11 5F 50 4B 9F 6D 7C 22 09 66 A1 D4 42 5D C6 41   ._PK.m|".f¡ÔB]ÆA
+0000000416   75 4E 63 00 F5 CE A0 0A 8C E6 BB 7E 01 6D B8 8E   uNc.õÎ ..æ»~.m¸.
+0000000432   2D B4 ED BF 53 BA 44 9D 48 3F 3B 51 10 2E F3 FF   -´í¿SºD.H?;Q..óÿ
+0000000448   56 89 19 D5 9B 03 9B 0A 1C C2 43 B6 8A 88 6F AE   V..Õ.....ÂC¶..o®
+0000000464   E7 3F C8 1D 33 2E                                 ç?È.3...........
+   
+
+
+[29.08.2015 17:45:48]
+[ModuleToClient, 0xA323, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+server_64 = 0
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:45:48]
+[ModuleToClient, 0xA102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:17
+ip_address = 25.94.235.125
+server_64 = 0
+[RelaySessionState dump end]
+0000000000   01 02 00 00 00 0D 00 32 35 2E 39 34 2E 32 33 35   .......25.94.235
+0000000016   2E 31 32 35 89 13                                 .125............
+   
+
+
+[29.08.2015 17:45:49]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0B 00 41 67 65 6E 74 53 65 72 76 65 72 00         ..AgentServer...
+   
+
+
+[29.08.2015 17:45:49]
+[ClientToModule, 0x6103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   02 00 00 00 04 00 74 65 73 74 03 00 31 32 33 16   ......test..123.
+0000000016   7A 79 19 5E EB 7D                                 zy.^ë}..........
+   
+
+
+[29.08.2015 17:45:49]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 C3 02 05 00 00 00 02                     ...Ã............
+   
+
+
+[29.08.2015 17:45:49]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:45:49]
+[ModuleToClient, 0xA103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:45:49
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:45:49
+isBot = True
+lastLogOut = 29.08.2015 17:45:49
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:45:50]
+[ClientToModule, 0x7007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:45:49
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:45:49
+isBot = True
+lastLogOut = 29.08.2015 17:45:49
+[RelaySessionState dump end]
+0000000000   02                                                ................
+   
+
+
+[29.08.2015 17:45:50]
+[ModuleToClient, 0xB007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:45:49
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:45:49
+isBot = True
+lastLogOut = 29.08.2015 17:45:49
+[RelaySessionState dump end]
+0000000000   02 01 03 28 3A 00 00 05 00 47 75 61 72 64 22 64   ...(:....Guard"d
+0000000016   6F 66 CE 53 00 00 00 00 7A 00 9D 01 00 00 D9 21   ofÎS....z.....Ù!
+0000000032   00 00 95 72 00 00 00 00 00 00 04 70 2D 00 00 00   ...r.......p-...
+0000000048   71 2D 00 00 00 72 2D 00 00 00 8D 2A 00 00 00 00   q-...r-....*....
+0000000064   28 3A 00 00 04 00 47 61 6D 65 11 01 00 00 00 00   (:....Game......
+0000000080   00 00 00 00 14 00 14 00 00 00 C8 00 00 00 2C 01   ..........È...,.
+0000000096   00 00 00 00 00 00 04 70 2D 00 00 00 71 2D 00 00   .......p-...q-..
+0000000112   00 72 2D 00 00 00 8E 2A 00 00 00 00 1B 3A 00 00   .r-....*.....:..
+0000000128   04 00 74 65 73 74 33 03 4C 01 00 00 00 00 00 00   ..test3.L.......
+0000000144   16 00 16 00 06 00 E4 00 00 00 E4 00 00 00 00 00   ......ä...ä.....
+0000000160   00 00 04 64 2D 00 00 00 65 2D 00 00 00 66 2D 00   ...d-...e-...f-.
+0000000176   00 00 87 2A 00 00 00 00                           ...*............
+   
+
+
+[29.08.2015 17:45:55]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:48
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:45:49
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:45:49
+isBot = True
+lastLogOut = 29.08.2015 17:45:49
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:56]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 17:45:56]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 17:45:56]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 17:45:56]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:45:56]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:45:56]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:45:56]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:45:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   01 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 17:50:42]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 17:50:42]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 17:50:42]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:50:42]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 17:50:42]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:50:42]
+[ClientToModule, 0x6104, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16                                                ................
+   
+
+
+[29.08.2015 17:50:42]
+[ModuleToClient, 0xA104, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:42
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 17:50:46]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 17:50:46]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 17:50:47]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:50:47]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 17:50:47]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:50:50]
+[ClientToModule, 0x6106, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:50:50]
+[ModuleToClient, 0xA106, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 19 5E EB 7D                                 ...^ë}..........
+   
+
+
+[29.08.2015 17:50:50]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:50:50]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 17:50:56]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:50:57]
+[ClientToModule, 0x6102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 04 00 74 65 73 74 03 00 31 32 33 40 00         ...test..123@...
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0x2322, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00 F0 01 E8 01 C8 32 C8 00 40 00 78 DA 75 54 4B   .ð.è.È2È.@.xÚuTK
+0000000016   4E C3 30 10 1D 3B 56 6A A1 48 B5 C4 26 0B 44 C3   NÃ0..;Vj¡HµÄ&.DÃ
+0000000032   0A 96 65 D7 45 A4 5A 9C A4 DC 80 65 77 35 37 E1   ..e×E¤Z.¤Ü.ew57á
+0000000048   08 1C 21 57 E0 06 39 42 97 15 2A 2D 19 8F BF 49   ..!Wà.9B..*-..¿I
+0000000064   3A 52 63 7B 3C BF F7 66 5C 80 41 98 61 60 57 70   :Rc{<¿÷f\.A.a`Wp
+0000000080   D2 1D FC AE C4 8F F4 A7 E3 16 B4 DB D6 5E A7 04   Ò.ü®Ä.ô§ã.´ÛÖ^§.
+0000000096   C0 69 09 41 76 32 C6 B9 2C 68 35 E1 43 72 2D E2   Ài.Av2Æ¹,h5áCr-â
+0000000112   7E 50 17 6E ED AE E8 1F AF A0 A2 A5 DF 66 55 0C   ~P.ní®è.¯ ¢¥ßfU.
+0000000128   A6 DF 36 C5 69 85 5F 2E 48 29 70 ED B0 BE B3 4B   ¦ß6Åi._.H)pí°¾³K
+0000000144   0B 05 8F B1 98 4B CB 24 E4 60 4B 9B D6 29 EF A2   ...±.KË$ä`K.Ö)ï¢
+0000000160   35 3F 6D 61 56 7E 0F 0D 96 23 46 6A 73 5E 98 4F   5?maV~...#Fjs^.O
+0000000176   97 10 AB E0 BE 66 4C CB 53 4B 6E 0D 0C A6 95 55   ..«à¾fLËSKn..¦.U
+0000000192   A2 97 1A AF 7A 22 7F 3D 0A CF 8E 2B DA FC 00 66   ¢..¯z".=.Ï.+Úü.f
+0000000208   56 E1 E2 6F 69 5C C9 F7 9B C4 5E 5F 10 AD B0 B4   Váâoi\É÷.Ä^_.­°´
+0000000224   8B 87 2C 52 DC D6 0F 30 81 61 0B DC B5 E9 19 55   ..,RÜÖ.0.a.Üµé.U
+0000000240   8A 30 98 1B A4 40 BF 8A C6 C2 FD 48 1E 03 7A 11   .0..¤@¿.ÆÂýH..z.
+0000000256   09 C0 2A DA A0 48 66 03 75 67 08 73 96 11 07 6D   .À*Ú Hf.ug.s...m
+0000000272   E1 D9 1D 01 39 A6 3C 1A 01 0D CD E6 70 A1 52 8F   áÙ..9¦<...Íæp¡R.
+0000000288   24 59 BB 73 46 63 D9 1B 46 AC 39 AF 86 86 8F 43   $Y»sFcÙ.F¬9¯...C
+0000000304   CF CA 1B D0 DD 4C F1 51 C7 60 8F 5D 64 4F 99 56   ÏÊ.ÐÝLñQÇ`.]dO.V
+0000000320   93 47 17 35 2A 0C B7 1E 3C A0 48 AD 15 A1 94 D0   .G.5*.·.< H­.¡.Ð
+0000000336   31 A8 E6 72 CB 0F 68 54 E0 F1 B9 89 75 74 AC 19   1¨ærË.hTàñ¹.ut¬.
+0000000352   DE A2 7F 36 2A C1 5F 80 7D F0 CC 5E EA 58 56 8F   Þ¢.6*Á_.}ðÌ^êXV.
+0000000368   AF 41 21 F4 21 24 C6 F4 04 F5 83 7B 9D 4F 9D 6B   ¯A!ô!$Æô.õ.{.O.k
+0000000384   15 B7 46 72 96 96 6E AA A2 3A 55 06 31 0D 5A CD   .·Fr..nª¢:U.1.ZÍ
+0000000400   AB 01 5E C3 AE E1 90 36 4E 8F 53 78 37 C3 42 55   «.^Ã®á.6N.Sx7ÃBU
+0000000416   6F F9 94 95 59 E3 55 EC 5A 3D 7D 23 2F F6 FB 6E   où..YãUìZ=}#/öûn
+0000000432   13 19 4F B3 0E 71 CD B4 1F FE AF 67 0A DE BA 09   ..O³.qÍ´.þ¯g.Þº.
+0000000448   0B 51 6E 80 31 96 5F AF 8D E5 C7 CC F1 68 46 8C   .Qn.1._¯.åÇÌñhF.
+0000000464   18 3A 8E 22 44 58 E5 24 0A A3 E2 6B 98 5E A0 7C   .:."DXå$.£âk.^ |
+0000000480   ED 74 38 48 4E 91 9A C9 D3 CC 67 1C 03 FE 03 E5   ít8HN..ÉÓÌg..þ.å
+0000000496   58 4A 5A                                          XJZ.............
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0xA323, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0xA102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:46
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 03 00 00 00 0D 00 32 35 2E 39 34 2E 32 33 35   .......25.94.235
+0000000016   2E 31 32 35 89 13                                 .125............
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0B 00 41 67 65 6E 74 53 65 72 76 65 72 00         ..AgentServer...
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 C3 02 05 00 00 00 02                     ...Ã............
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 17:50:58]
+[ClientToModule, 0x6103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 00 00 04 00 74 65 73 74 03 00 31 32 33 16   ......test..123.
+0000000016   7A 79 19 5E EB 7D                                 zy.^ë}..........
+   
+
+
+[29.08.2015 17:50:58]
+[ModuleToClient, 0xA103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:50:59]
+[ClientToModule, 0x7007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   02                                                ................
+   
+
+
+[29.08.2015 17:50:59]
+[ModuleToClient, 0xB007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   02 01 03 28 3A 00 00 05 00 47 75 61 72 64 22 64   ...(:....Guard"d
+0000000016   6F 66 CE 53 00 00 00 00 7A 00 9D 01 00 00 D9 21   ofÎS....z.....Ù!
+0000000032   00 00 95 72 00 00 00 00 00 00 04 70 2D 00 00 00   ...r.......p-...
+0000000048   71 2D 00 00 00 72 2D 00 00 00 8D 2A 00 00 00 00   q-...r-....*....
+0000000064   28 3A 00 00 04 00 47 61 6D 65 11 01 00 00 00 00   (:....Game......
+0000000080   00 00 00 00 14 00 14 00 00 00 C8 00 00 00 2C 01   ..........È...,.
+0000000096   00 00 00 00 00 00 04 70 2D 00 00 00 71 2D 00 00   .......p-...q-..
+0000000112   00 72 2D 00 00 00 8E 2A 00 00 00 00 1B 3A 00 00   .r-....*.....:..
+0000000128   04 00 74 65 73 74 33 03 4C 01 00 00 00 00 00 00   ..test3.L.......
+0000000144   16 00 16 00 06 00 E4 00 00 00 E4 00 00 00 00 00   ......ä...ä.....
+0000000160   00 00 04 64 2D 00 00 00 65 2D 00 00 00 66 2D 00   ...d-...e-...f-.
+0000000176   00 00 87 2A 00 00 00 00                           ...*............
+   
+
+
+[29.08.2015 17:51:03]
+[ClientToModule, 0x7001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   04 00 74 65 73 74                                 ..test..........
+   
+
+
+[29.08.2015 17:51:04]
+[ModuleToClient, 0xB001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:51:04]
+[ModuleToClient, 0x34A5, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:04]
+[ModuleToClient, 0x3013, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   0F F6 38 13 1B 3A 00 00 33 03 03 4C 01 00 00 00   .ö8..:..3..L....
+0000000016   00 00 00 68 01 00 00 00 00 00 00 00 00 00 00 0B   ...h............
+0000000032   00 00 00 06 00 00 00 00 00 00 E4 00 00 00 E4 00   ..........ä...ä.
+0000000048   00 00 01 00 00 00 00 00 00 00 00 00 2D 07 01 00   ............-...
+0000000064   00 00 00 64 2D 00 00 00 00 00 00 00 00 00 00 00   ...d-...........
+0000000080   27 00 00 00 00 01 00 02 00 04 00 00 00 00 65 2D   '.............e-
+0000000096   00 00 00 00 00 00 00 00 00 00 00 27 00 00 00 00   ...........'....
+0000000112   01 00 02 00 05 00 00 00 00 66 2D 00 00 00 00 00   .........f-.....
+0000000128   00 00 00 00 00 00 27 00 00 00 00 01 00 02 00 06   ......'.........
+0000000144   00 00 00 00 87 2A 00 00 00 00 00 00 00 00 00 00   .....*..........
+0000000160   00 3F 00 00 00 00 01 00 02 00 0D 00 00 00 00 42   .?.............B
+0000000176   1D 00 00 01 00 0E 00 00 00 00 43 1D 00 00 01 00   ..........C.....
+0000000192   0F 00 00 00 00 8E 28 00 00 14 00 05 00 00 01 01   ......(.........
+0000000208   02 00 00 00 01 02 02 00 00 00 01 03 02 00 00 00   ................
+0000000224   01 04 02 00 00 00 01 05 02 00 00 00 01 06 02 00   ................
+0000000240   00 00 02 00 02 01 00 01 00 00 00 01 8D 01 00 00   ................
+0000000256   10 00 18 08 01 01 00 16 00 53 4E 5F 43 4F 4E 5F   .........SN_CON_
+0000000272   51 45 56 5F 41 4C 4C 5F 42 41 53 49 43 5F 30 01   QEV_ALL_BASIC_0.
+0000000288   00 00 00 00 00 00 00 00 00 E4 D6 02 00 87 5C EB   .........äÖ...\ë
+0000000304   DE 39 44 62 49 74 43 9B C8 F5 43 1C 4C 00 01 00   Þ9DbItC.ÈõC.L...
+0000000320   1C 4C 00 00 00 00 00 00 80 41 00 00 48 42 00 00   .L.......A..HB..
+0000000336   C8 42 00 04 00 74 65 73 74 00 00 00 01 00 00 00   ÈB...test.......
+0000000352   00 00 00 00 00 00 00 00 00 00 00 00 FF 13 00 C0   ............ÿ..À
+0000000368   00 00 00 00 00 01 00 00 00 01 07 04 01 4A EA 03   .............Jê.
+0000000384   00 64 02 4A F0 03 00 64 03 4A EE 03 00 64 04 4A   .d.Jð..d.Jî..d.J
+0000000400   F8 03 00 64 00 00 00 00 00 00 00 00 01 00 01 00   ø..d............
+0000000416   00                                                ................
+   
+
+
+[29.08.2015 17:51:04]
+[ModuleToClient, 0x34A6, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:04]
+[ModuleToClient, 0x3020, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   E4 D6 02 00 00 00 0F 23                           äÖ.....#........
+   
+
+
+[29.08.2015 17:51:10]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:14]
+[ClientToModule, 0x3012, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:14]
+[ClientToModule, 0x750E, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3809, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01 C8                                             .È..............
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   19 08 00 00 E3 02 00 00 87 5C 52 88 10 44 7C CE   ....ã....\R..D|Î
+0000000016   73 43 00 80 3C 43 88 28 00 01 00 88 28 01 00 00   sC..<C.(....(...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 03   ...........ÈB...
+0000000048   01 02 04                                          ................
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01 06 00                                          ................
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   30 08 00 00 03 00 00 00 87 5C 00 60 8D 44 00 80   0........\.`.D..
+0000000016   98 43 00 00 F4 43 00 00 01 00 00 01 00 00 00 00   .C..ôC..........
+0000000032   00 00 00 00 23 08 00 00 51 04 00 00 87 5C F6 C8   ....#...Q....\öÈ
+0000000048   8D 44 62 49 74 43 8F B2 18 44 B5 40 00 01 00 B5   .DbItC.².Dµ@...µ
+0000000064   40 01 00 00 00 00 00 00 00 00 00 00 00 00 00 C8   @..............È
+0000000080   42 00 02 03 01 02 03 15 0F 00 00 DC 04 00 00 87   B..........Ü....
+0000000096   5C CD 4C 8D 44 62 49 74 43 EC 51 B9 43 00 00 00   \ÍL.DbItCìQ¹C...
+0000000112   01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000128   00 00 C8 42 00 02 01 02 24 24 00 00 DD 04 00 00   ..ÈB....$$..Ý...
+0000000144   87 5C C3 B5 7A 44 62 49 74 43 85 CB F4 43 FF 7F   .\ÃµzDbItC.ËôCÿ.
+0000000160   00 01 00 FF 7F 01 00 00 00 00 00 00 00 00 00 00   ...ÿ............
+0000000176   00 00 00 C8 42 00 02 01 12 42 60 00 00 E8 04 00   ...ÈB....B`..è..
+0000000192   00 87 5C CD 4C 9B 44 62 49 74 43 CD AC FD 43 00   ..\ÍL.DbItCÍ¬ýC.
+0000000208   00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00   ................
+0000000224   00 00 00 00 C8 42 00 02 01 21 43 60 00 00 E9 04   ....ÈB...!C`..é.
+0000000240   00 00 87 5C 33 2B 9B 44 62 49 74 43 D7 A3 EA 43   ...\3+.DbItC×£êC
+0000000256   00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00   ................
+0000000272   00 00 00 00 00 C8 42 00 02 02 01 22               .....ÈB...."....
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   18 08 00 00 7A 02 00 00 87 5C 3D CA FA 43 2E 94   ....z....\=ÊúC..
+0000000016   73 43 48 91 3F 44 98 D9 00 01 00 98 D9 01 00 00   sCH.?D.Ù....Ù...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 04   ...........ÈB...
+0000000048   01 02 04 20                                       ... ............
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x303D, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   1B 00 00 00 21 00 00 00 0A 00 00 00 0C 00 00 00   ....!...........
+0000000016   0A 00 10 00 25 00 1A 00 E4 00 00 00 E4 00 00 00   ....%...ä...ä...
+0000000032   16 00 16 00                                       ................
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x30BF, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   E4 D6 02 00 04 04                                 äÖ..............
+   
+
+
+[29.08.2015 17:51:15]
+[ModuleToClient, 0x385F, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   00 03 01 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000016   00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 00   ................
+0000000032   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000048   00 00 00 00 00 00 00 00 00 00 06 00 00 00 00 00   ................
+0000000064   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000080   00 00 00 00 00 00 00 00 00 00 00                  ................
+   
+
+
+[29.08.2015 17:51:17]
+[ModuleToClient, 0x3077, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   00 00                                             ................
+   
+
+
+[29.08.2015 17:51:18]
+[ModuleToClient, 0x3305, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 17:51:18]
+[ModuleToClient, 0xB50E, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01 00                                             ................
+   
+
+
+[29.08.2015 17:51:20]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:21]
+[ModuleToClient, 0x3153, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   00 00 00 00 00 00 00 00 00 00 00 00               ................
+   
+
+
+[29.08.2015 17:51:23]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01 87 5C 19 03 F4 00 94 01                        ..\..ô..........
+   
+
+
+[29.08.2015 17:51:23]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   E4 D6 02 00 01 87 5C 19 03 F4 00 94 01 01 87 5C   äÖ....\..ô.....\
+0000000016   0A 1D 62 49 74 43 33 13                           ..bItC3.........
+   
+
+
+[29.08.2015 17:51:28]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:35]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 17:51:35]
+[ClientToModule, 0x7005, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:50:58
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 17:51:35]
+[ModuleToClient, 0xB005, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:51:55
+[RelaySessionState dump end]
+0000000000   01 05 01                                          ................
+   
+
+
+[29.08.2015 17:51:40]
+[ModuleToClient, 0x300A, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 17:50:58
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 17:50:58
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 17:50:58
+isBot = True
+lastLogOut = 29.08.2015 17:51:55
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:21:51]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:21:51]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:21:51]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:21:51]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:21:51]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:21:51]
+[ClientToModule, 0x6104, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16                                                ................
+   
+
+
+[29.08.2015 18:21:51]
+[ModuleToClient, 0xA104, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 18:21:56]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:21:56]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:21:56]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:21:56]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:21:56]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:21:59]
+[ClientToModule, 0x6106, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:21:59]
+[ModuleToClient, 0xA106, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 19 5E EB 7D                                 ...^ë}..........
+   
+
+
+[29.08.2015 18:21:59]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:21:59]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 18:22:02]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:22:02]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 18:22:07]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+server_64 = 0
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:22:07]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:21:56
+ip_address = 25.94.235.125
+server_64 = 0
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 18:22:36]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:22:36]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:22:36]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:22:36]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:22:36]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:22:36]
+[ClientToModule, 0x6104, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16                                                ................
+   
+
+
+[29.08.2015 18:22:36]
+[ModuleToClient, 0xA104, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 18:22:43]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:36
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:22:51]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:22:51]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:22:51]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:22:51]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:22:51]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:22:54]
+[ClientToModule, 0x6106, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:22:54]
+[ModuleToClient, 0xA106, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 19 5E EB 7D                                 ...^ë}..........
+   
+
+
+[29.08.2015 18:22:54]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:22:54]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 18:23:01]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:03]
+[ClientToModule, 0x6102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 04 00 74 65 73 74 03 00 31 32 33 40 00         ...test..123@...
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0x2322, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00 1E 02 16 02 C8 32 C8 00 40 00 78 DA 6D 54 3B   .....È2È.@.xÚmT;
+0000000016   6E 1C 31 0C A5 34 84 21 1B 5B 08 41 8A 29 0C 43   n.1.¥4.!.[.A.).C
+0000000032   06 5C A4 DC 03 B8 50 9A 20 C7 D8 23 A4 CB 94 0A   .\¤Ü.¸P. ÇØ#¤Ë..
+0000000048   90 C2 65 0E 90 C2 47 59 F8 24 7B 84 2D 52 38 4D   .Âe..ÂGYø${.-R8M
+0000000064   12 52 94 28 CA 1B 01 33 A3 91 F8 79 24 1F 09 C0   .R.(Ê..3£.øy$..À
+0000000080   2B 43 5B 48 4F D0 83 A8 A7 61 91 9D CF EE D8 65   +C[HOÐ.¨§a..ÏîØe
+0000000096   AB E0 B1 AA 8C 95 A6 8D FE 45 B5 0E AB 28 76 21   «à±ª..¦.þEµ.«(v!
+0000000112   75 0D 57 C3 A1 07 28 7A 5E 5C 82 EE 05 87 E6 B5   u.WÃ¡.(z^\.î..æµ
+0000000128   57 55 37 FC D7 ED 9E 9E DD DB 1B 56 BE 15 BB 41   WU7ü×í..ÝÛ.V¾.»A
+0000000144   6E 2A 0C F1 B3 F0 41 B4 88 39 09 6E A0 C8 6A BE   n*.ñ³ðA´.9.n Èj¾
+0000000160   6A A5 43 44 BE F4 60 90 26 70 C1 AF F4 C9 4D 1C   j¥CD¾ô`.&pÁ¯ôÉM.
+0000000176   C5 BF 80 7E 98 12 AD EB 7B 5C E0 72 95 9A DA 81   Å¿.~..­ë{\àr..Ú.
+0000000192   24 5A DD FD 99 05 72 B3 FC 58 54 27 1C 17 9B 89   $ZÝý..r³üXT'....
+0000000208   D0 4B 90 3E 9D A7 44 48 9E 1D A7 F6 95 EC 96 4B   ÐK.>.§DH..§ö.ì.K
+0000000224   FF 07 F8 ED 6C 68 00 4F 62 34 E2 9F 7B B6 19 EB   ÿ.øílh.Ob4â.{¶.ë
+0000000240   55 1E 25 D8 95 AF A1 F4 54 A1 D3 B0 FD 12 B6 61   U.%Ø.¯¡ôT¡Ó°ý.¶a
+0000000256   29 B8 96 29 C4 6F 00 5B 21 04 B3 63 0F F1 40 17   )¸.)Äo.[!.³c.ñ@.
+0000000272   36 7C 6C A1 23 31 E7 0B FC 8F 6D C4 9C D3 0F 65   6|l¡#1ç.ü.mÄ.Ó.e
+0000000288   8E A9 37 19 3F 0D B6 55 6C 81 83 67 D6 6E 50 96   .©7.?.¶Ul..gÖnP.
+0000000304   51 DC 26 C4 CC 39 B3 E1 99 D5 58 E9 74 72 B3 EB   QÜ&ÄÌ9³á.ÕXétr³ë
+0000000320   C8 D0 16 D1 40 C9 44 F0 5E 59 4B AF 2D 85 19 54   ÈÐ.Ñ@ÉDð^YK¯-..T
+0000000336   40 4A 2D 49 9F 94 4E EA C8 AF CF 20 91 37 AE BC   @J-I..NêÈ¯Ï .7®¼
+0000000352   B3 4D 09 BF 46 31 D4 5C C5 FF 68 48 9E A5 81 28   ³M.¿F1Ô\ÅÿhH.¥.(
+0000000368   BC 54 51 75 36 5F 37 E9 44 00 5B 4A CA 64 7D AD   ¼TQu6_7éD.[JÊd}­
+0000000384   29 BE 63 89 C2 36 B0 D9 FC 78 55 3F B7 D5 94 96   )¾c.Â6°ÙüxU?·Õ..
+0000000400   D7 43 AF DB 36 D7 C3 29 4B 05 BC 2F EC CA 55 1F   ×C¯Û6×Ã)K.¼/ìÊU.
+0000000416   FB D6 8E F8 86 89 61 D7 66 C9 7D FC 69 AE 33 C2   ûÖ.ø..a×fÉ}üi®3Â
+0000000432   62 10 0A DD DE D7 4D 69 7D 45 17 89 FF C3 60 AD   b..ÝÞ×Mi}E..ÿÃ`­
+0000000448   F4 01 9D C5 51 F5 F4 19 D6 03 C9 4A 6E 8A ED F0   ô..ÅQõô.Ö.ÉJn.íð
+0000000464   36 25 30 4F 0C 2C 3D B5 42 21 D4 B1 34 37 A5 C6   6%0O.,=µB!Ô±47¥Æ
+0000000480   9C 84 39 7E A6 5F 47 60 E9 17 F4 9B 2B 6B 2F 46   ..9~¦_G`é.ô.+k/F
+0000000496   14 DF 4D 2D 81 53 53 02 7C B8 18 13 66 4E 73 B0   .ßM-.SS.|¸..fNs°
+0000000512   C5 8E B0 9D 5A D1 C3 9B C1 1C 70 68 66 5E E2 BD   Å.°.ZÑÃ.Á.phf^â½
+0000000528   1D 05 AF 7F C7 82 17 E3 0F 4D 3B FD 03 B2 03 51   ..¯.Ç..ã.M;ý.².Q
+0000000544   ED                                                í...............
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0xA323, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0xA102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:22:51
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 04 00 00 00 0D 00 32 35 2E 39 34 2E 32 33 35   .......25.94.235
+0000000016   2E 31 32 35 89 13                                 .125............
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0B 00 41 67 65 6E 74 53 65 72 76 65 72 00         ..AgentServer...
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 C3 02 05 00 00 00 02                     ...Ã............
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:23:03]
+[ClientToModule, 0x6103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   04 00 00 00 04 00 74 65 73 74 03 00 31 32 33 16   ......test..123.
+0000000016   7A 79 19 5E EB 7D                                 zy.^ë}..........
+   
+
+
+[29.08.2015 18:23:03]
+[ModuleToClient, 0xA103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:23:04]
+[ClientToModule, 0x7007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   02                                                ................
+   
+
+
+[29.08.2015 18:23:04]
+[ModuleToClient, 0xB007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   02 01 03 28 3A 00 00 05 00 47 75 61 72 64 22 64   ...(:....Guard"d
+0000000016   6F 66 CE 53 00 00 00 00 7A 00 9D 01 00 00 D9 21   ofÎS....z.....Ù!
+0000000032   00 00 95 72 00 00 00 00 00 00 04 70 2D 00 00 00   ...r.......p-...
+0000000048   71 2D 00 00 00 72 2D 00 00 00 8D 2A 00 00 00 00   q-...r-....*....
+0000000064   28 3A 00 00 04 00 47 61 6D 65 11 01 00 00 00 00   (:....Game......
+0000000080   00 00 00 00 14 00 14 00 00 00 C8 00 00 00 2C 01   ..........È...,.
+0000000096   00 00 00 00 00 00 04 70 2D 00 00 00 71 2D 00 00   .......p-...q-..
+0000000112   00 72 2D 00 00 00 8E 2A 00 00 00 00 1B 3A 00 00   .r-....*.....:..
+0000000128   04 00 74 65 73 74 33 03 4C 01 00 00 00 00 00 00   ..test3.L.......
+0000000144   16 00 16 00 06 00 E4 00 00 00 E4 00 00 00 00 00   ......ä...ä.....
+0000000160   00 00 04 64 2D 00 00 00 65 2D 00 00 00 66 2D 00   ...d-...e-...f-.
+0000000176   00 00 87 2A 00 00 00 00                           ...*............
+   
+
+
+[29.08.2015 18:23:08]
+[ClientToModule, 0x7001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   04 00 74 65 73 74                                 ..test..........
+   
+
+
+[29.08.2015 18:23:09]
+[ModuleToClient, 0xB001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:23:09]
+[ModuleToClient, 0x34A5, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:09]
+[ModuleToClient, 0x3013, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   0F 76 79 25 1B 3A 00 00 33 03 03 4C 01 00 00 00   .vy%.:..3..L....
+0000000016   00 00 00 68 01 00 00 00 00 00 00 00 00 00 00 0B   ...h............
+0000000032   00 00 00 06 00 00 00 00 00 00 E4 00 00 00 E4 00   ..........ä...ä.
+0000000048   00 00 01 00 00 00 00 00 00 00 00 00 2D 07 01 00   ............-...
+0000000064   00 00 00 64 2D 00 00 00 00 00 00 00 00 00 00 00   ...d-...........
+0000000080   27 00 00 00 00 01 00 02 00 04 00 00 00 00 65 2D   '.............e-
+0000000096   00 00 00 00 00 00 00 00 00 00 00 27 00 00 00 00   ...........'....
+0000000112   01 00 02 00 05 00 00 00 00 66 2D 00 00 00 00 00   .........f-.....
+0000000128   00 00 00 00 00 00 27 00 00 00 00 01 00 02 00 06   ......'.........
+0000000144   00 00 00 00 87 2A 00 00 00 00 00 00 00 00 00 00   .....*..........
+0000000160   00 3F 00 00 00 00 01 00 02 00 0D 00 00 00 00 42   .?.............B
+0000000176   1D 00 00 01 00 0E 00 00 00 00 43 1D 00 00 01 00   ..........C.....
+0000000192   0F 00 00 00 00 8E 28 00 00 14 00 05 00 00 01 01   ......(.........
+0000000208   02 00 00 00 01 02 02 00 00 00 01 03 02 00 00 00   ................
+0000000224   01 04 02 00 00 00 01 05 02 00 00 00 01 06 02 00   ................
+0000000240   00 00 02 00 02 01 00 01 00 00 00 01 8D 01 00 00   ................
+0000000256   10 00 18 08 01 01 00 16 00 53 4E 5F 43 4F 4E 5F   .........SN_CON_
+0000000272   51 45 56 5F 41 4C 4C 5F 42 41 53 49 43 5F 30 01   QEV_ALL_BASIC_0.
+0000000288   00 00 00 00 00 00 00 00 00 45 DD 02 00 87 5C 00   .........EÝ...\.
+0000000304   40 46 44 62 49 74 43 00 00 CA 43 7E E6 00 01 00   @FDbItC..ÊC~æ...
+0000000320   7E E6 00 00 00 00 00 00 80 41 00 00 48 42 00 00   ~æ.......A..HB..
+0000000336   C8 42 00 04 00 74 65 73 74 00 00 00 01 00 00 00   ÈB...test.......
+0000000352   00 00 00 00 00 00 00 00 00 00 00 00 FF 13 00 C0   ............ÿ..À
+0000000368   00 00 00 00 00 01 00 00 00 01 07 04 01 4A EA 03   .............Jê.
+0000000384   00 64 02 4A F0 03 00 64 03 4A EE 03 00 64 04 4A   .d.Jð..d.Jî..d.J
+0000000400   F8 03 00 64 00 00 00 00 00 00 00 00 01 00 01 00   ø..d............
+0000000416   00                                                ................
+   
+
+
+[29.08.2015 18:23:09]
+[ModuleToClient, 0x34A6, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:09]
+[ModuleToClient, 0x3020, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   45 DD 02 00 01 00 12 12                           EÝ..............
+   
+
+
+[29.08.2015 18:23:14]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:14]
+[ClientToModule, 0x3012, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:14]
+[ClientToModule, 0x750E, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3809, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 C8                                             .È..............
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   19 08 00 00 E3 02 00 00 87 5C 52 88 10 44 7C CE   ....ã....\R..D|Î
+0000000016   73 43 00 80 3C 43 88 28 00 01 00 88 28 01 00 00   sC..<C.(....(...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 03   ...........ÈB...
+0000000048   01 02 04                                          ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 06 00                                          ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   30 08 00 00 03 00 00 00 87 5C 00 60 8D 44 00 80   0........\.`.D..
+0000000016   98 43 00 00 F4 43 00 00 01 00 00 01 00 00 00 00   .C..ôC..........
+0000000032   00 00 00 00 23 08 00 00 51 04 00 00 87 5C F6 C8   ....#...Q....\öÈ
+0000000048   8D 44 62 49 74 43 8F B2 18 44 B5 40 00 01 00 B5   .DbItC.².Dµ@...µ
+0000000064   40 01 00 00 00 00 00 00 00 00 00 00 00 00 00 C8   @..............È
+0000000080   42 00 02 03 01 02 03 15 0F 00 00 DC 04 00 00 87   B..........Ü....
+0000000096   5C CD 4C 8D 44 62 49 74 43 EC 51 B9 43 00 00 00   \ÍL.DbItCìQ¹C...
+0000000112   01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000128   00 00 C8 42 00 02 01 02 24 24 00 00 DD 04 00 00   ..ÈB....$$..Ý...
+0000000144   87 5C C3 B5 7A 44 62 49 74 43 85 CB F4 43 FF 7F   .\ÃµzDbItC.ËôCÿ.
+0000000160   00 01 00 FF 7F 01 00 00 00 00 00 00 00 00 00 00   ...ÿ............
+0000000176   00 00 00 C8 42 00 02 01 12 42 60 00 00 E8 04 00   ...ÈB....B`..è..
+0000000192   00 87 5C CD 4C 9B 44 62 49 74 43 CD AC FD 43 00   ..\ÍL.DbItCÍ¬ýC.
+0000000208   00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00   ................
+0000000224   00 00 00 00 C8 42 00 02 01 21 43 60 00 00 E9 04   ....ÈB...!C`..é.
+0000000240   00 00 87 5C 33 2B 9B 44 62 49 74 43 D7 A3 EA 43   ...\3+.DbItC×£êC
+0000000256   00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00   ................
+0000000272   00 00 00 00 00 C8 42 00 02 02 01 22               .....ÈB...."....
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   18 08 00 00 7A 02 00 00 87 5C 3D CA FA 43 2E 94   ....z....\=ÊúC..
+0000000016   73 43 48 91 3F 44 98 D9 00 01 00 98 D9 01 00 00   sCH.?D.Ù....Ù...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 04   ...........ÈB...
+0000000048   01 02 04 20                                       ... ............
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x303D, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   1B 00 00 00 21 00 00 00 0A 00 00 00 0C 00 00 00   ....!...........
+0000000016   0A 00 10 00 25 00 1A 00 E4 00 00 00 E4 00 00 00   ....%...ä...ä...
+0000000032   16 00 16 00                                       ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x30BF, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   45 DD 02 00 04 04                                 EÝ..............
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x385F, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   00 03 01 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000016   00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 00   ................
+0000000032   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000048   00 00 00 00 00 00 00 00 00 00 06 00 00 00 00 00   ................
+0000000064   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000080   00 00 00 00 00 00 00 00 00 00 00                  ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3077, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   00 00                                             ................
+   
+
+
+[29.08.2015 18:23:14]
+[ModuleToClient, 0x3305, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 18:23:15]
+[ModuleToClient, 0xB50E, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 00                                             ................
+   
+
+
+[29.08.2015 18:23:15]
+[ModuleToClient, 0x3153, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   00 00 00 00 00 00 00 00 00 00 00 00               ................
+   
+
+
+[29.08.2015 18:23:21]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:27]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:34]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:41]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:46]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:52]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:23:59]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:24:02]
+[ModuleToClient, 0x34D2, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   0E 01 00 00                                       ................
+   
+
+
+[29.08.2015 18:24:06]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:24:09]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 87 5C 29 03 F4 00 78 01                        ..\).ô.x........
+   
+
+
+[29.08.2015 18:24:09]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   45 DD 02 00 01 87 5C 29 03 F4 00 78 01 01 87 5C   EÝ....\).ô.x...\
+0000000016   FA 1E 62 49 74 43 C8 0F                           ú.bItCÈ.........
+   
+
+
+[29.08.2015 18:24:09]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01 87 5C 3D 03 F4 00 49 01                        ..\=.ô.I........
+   
+
+
+[29.08.2015 18:24:09]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   45 DD 02 00 01 87 5C 3D 03 F4 00 49 01 01 87 5C   EÝ....\=.ô.I...\
+0000000016   4B 1F 62 49 74 43 3A 0F                           K.bItC:.........
+   
+
+
+[29.08.2015 18:24:10]
+[ClientToModule, 0x7005, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:23:03
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:24:10]
+[ModuleToClient, 0xB023, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:24:30
+[RelaySessionState dump end]
+0000000000   45 DD 02 00 87 5C 4D 0D 4E 44 62 49 74 43 65 B9   EÝ...\M.NDbItCe¹
+0000000016   A9 43 84 D1                                       ©C.Ñ............
+   
+
+
+[29.08.2015 18:24:10]
+[ModuleToClient, 0xB005, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:24:30
+[RelaySessionState dump end]
+0000000000   01 05 01                                          ................
+   
+
+
+[29.08.2015 18:24:14]
+[ModuleToClient, 0x300A, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:23:03
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:23:03
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:23:03
+isBot = True
+lastLogOut = 29.08.2015 18:24:30
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:18]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:25:18]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:25:18]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:25:18]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:25:18]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:25:18]
+[ClientToModule, 0x6104, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16                                                ................
+   
+
+
+[29.08.2015 18:25:18]
+[ModuleToClient, 0xA104, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:18
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 18:25:22]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:25:22]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:25:22]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:25:22]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:25:22]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:25:25]
+[ClientToModule, 0x6106, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:25]
+[ModuleToClient, 0xA106, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 19 5E EB 7D                                 ...^ë}..........
+   
+
+
+[29.08.2015 18:25:25]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:25]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+
+[29.08.2015 18:25:32]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:34]
+[ClientToModule, 0x6102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 04 00 74 65 73 74 03 00 31 32 33 40 00         ...test..123@...
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0x2322, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00 35 02 2D 02 C8 32 C8 00 40 00 78 DA 75 54 BD   .5.-.È2È.@.xÚuT½
+0000000016   6E DC 30 0C 26 75 BE 5A 53 4E 05 3A 74 B8 5E 34   nÜ0.&u¾ZSN.:t¸^4
+0000000032   66 EC 78 C3 E1 E0 BE 40 D1 47 E8 23 DC 90 21 43   fìxÃáà¾@ÑGè#Ü.!C
+0000000048   90 B0 48 F7 BC 92 C7 BE 45 9D 31 9D 3C DE 14 94   .°H÷¼.Ç¾E.1.<Þ..
+0000000064   14 65 FD F8 1C C2 B0 05 89 E2 C7 8F FC 68 00 B1   .eýø.Â°..âÇ.üh.±
+0000000080   46 5E 2E 2C 81 50 DE 07 98 CC 4D 8B 93 BC 86 15   F^.,.PÞ..ÌM..¼..
+0000000096   3B 7B A8 EC 4A 5E D7 BA 36 71 4F 82 F4 08 D4 9D   ;{¨ìJ^×º6qO.ô.Ô.
+0000000112   01 31 79 76 FA D9 B3 5F DF DA 3A 8A 9C B5 1C FC   .1yvúÙ³_ßÚ:..µ.ü
+0000000128   00 97 F6 6A 02 F2 14 80 F1 5D 08 BA DE A2 22 CF   ..öj.ò..ñ].ºÞ¢"Ï
+0000000144   62 01 B1 F3 19 9C 77 60 7E 34 71 AF 89 24 FA 16   b.±ó..w`~4q¯.$ú.
+0000000160   9A 39 C0 27 21 71 E4 7B 45 96 7A A5 C7 66 C0 CC   .9À'!qä{E.z¥ÇfÀÌ
+0000000176   8C D2 D9 5E 91 4D 51 21 B5 96 91 73 22 99 DC BF   .ÒÙ^.MQ!µ..s".Ü¿
+0000000192   8E 91 2F 28 B3 6D 05 59 AB 57 F2 B0 B4 1A 11 96   ../(³m.Y«Wò°´...
+0000000208   EC 27 6C 16 F7 ED E1 5C 05 16 02 28 BD A0 BF 2D   ì'l.÷íá\...(½ ¿-
+0000000224   C4 AE 75 65 BA CD E9 18 EB 92 2A E8 F4 FA DB E3   Ä®ueºÍé.ë.*èôúÛã
+0000000240   22 02 F4 CF 8F 8B 1C E0 0E 76 4A D6 A6 5D 92 87   ".ôÏ...à.vJÖ¦]..
+0000000256   39 1F 52 31 4D 54 86 D8 1B EA 81 5C EA 90 71 63   9.R1MT.Ø.ê.\ê.qc
+0000000272   5E E3 17 A8 35 10 33 A3 E7 15 98 6D 79 B0 D6 CF   ^ã.¨5.3£ç..my°ÖÏ
+0000000288   3D F7 D4 0C A1 7C A4 64 30 90 ED 57 22 CC 21 F7   =÷Ô.¡|¤d0.íW"Ì!÷
+0000000304   87 62 0F 8F 3D 6A FF A6 7D CF D7 1A 0F 23 EE 95   .b..=jÿ¦}Ï×..#î.
+0000000320   C9 14 21 82 D3 06 42 E3 82 0E 5C E4 E2 D8 E1 9E   É.!.Ó.Bã..\äâØá.
+0000000336   A3 FB E9 00 A3 FF 4D 90 EA E7 E0 7A 07 49 6A 5E   £ûé.£ÿM.êçàz.Ij^
+0000000352   6A B2 03 8D 04 43 25 56 46 A6 21 A9 4A 43 39 01   j²...C%VF¦!©JC9.
+0000000368   FA B5 11 75 84 2C 38 E7 42 1C 0F BF 81 9E 8A B1   úµ.u.,8çB..¿...±
+0000000384   94 0B 52 F3 17 0E 7F 1B 6A 6A E0 0F A6 96 5A B7   ..Ró....jjà.¦.Z·
+0000000400   E3 3C BE C7 7A 72 BA 3E 09 1A AD 38 9A D0 BA B1   ã<¾Çzrº>..­8.Ðº±
+0000000416   CC 0A BF C2 DE A0 D2 1A 75 00 38 10 10 D1 0D 24   Ì.¿ÂÞ Ò.u.8..Ñ.$
+0000000432   1D C7 AC AD AA A0 1B AA 49 CC CB 7E 5B FD 1C A4   .Ç¬­ª .ªIÌË~[ý.¤
+0000000448   28 0D F9 38 A7 A5 25 8F 53 58 75 BE AE 13 67 75   (.ù8§¥%.SXu¾®.gu
+0000000464   B5 4E 63 95 E7 54 BA FD D1 CE B4 9F E6 D4 F9 F9   µNc.çTºýÑÎ´.æÔùù
+0000000480   38 3A A1 F5 81 AF 99 04 6A E5 B1 24 75 FF C6 03   8:¡õ.¯..jå±$uÿÆ.
+0000000496   96 A7 01 2F D5 4E 97 73 41 73 27 AB 02 22 C8 7D   .§./ÕN.sAs'«."È}
+0000000512   EB E6 5C 9B F2 9E 2F FF 3A 11 DD 94 FE 5C 7D 3F   ëæ\.ò./ÿ:.Ý.þ\}?
+0000000528   69 B9 AB B2 E2 9C 69 92 A6 73 11 2F 0C BA 2F 30   i¹«²â.i.¦s./.º/0
+0000000544   F9 3F 9C FF 7B 5C 59 97 AA 4B 45 E6 04 EF 19 2E   ù?.ÿ{\Y.ªKEæ.ï..
+0000000560   A4 0A FF 01 0F 82 59 35                           ¤.ÿ...Y5........
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0xA323, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0xA102, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:22
+server_64 = 0
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 05 00 00 00 0D 00 32 35 2E 39 34 2E 32 33 35   .......25.94.235
+0000000016   2E 31 32 35 89 13                                 .125............
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0B 00 41 67 65 6E 74 53 65 72 76 65 72 00         ..AgentServer...
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 C3 02 05 00 00 00 02                     ...Ã............
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:25:34]
+[ClientToModule, 0x6103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   05 00 00 00 04 00 74 65 73 74 03 00 31 32 33 16   ......test..123.
+0000000016   7A 79 19 5E EB 7D                                 zy.^ë}..........
+   
+
+
+[29.08.2015 18:25:34]
+[ModuleToClient, 0xA103, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:25:35]
+[ClientToModule, 0x7007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   02                                                ................
+   
+
+
+[29.08.2015 18:25:35]
+[ModuleToClient, 0xB007, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   02 01 03 28 3A 00 00 05 00 47 75 61 72 64 22 64   ...(:....Guard"d
+0000000016   6F 66 CE 53 00 00 00 00 7A 00 9D 01 00 00 D9 21   ofÎS....z.....Ù!
+0000000032   00 00 95 72 00 00 00 00 00 00 04 70 2D 00 00 00   ...r.......p-...
+0000000048   71 2D 00 00 00 72 2D 00 00 00 8D 2A 00 00 00 00   q-...r-....*....
+0000000064   28 3A 00 00 04 00 47 61 6D 65 11 01 00 00 00 00   (:....Game......
+0000000080   00 00 00 00 14 00 14 00 00 00 C8 00 00 00 2C 01   ..........È...,.
+0000000096   00 00 00 00 00 00 04 70 2D 00 00 00 71 2D 00 00   .......p-...q-..
+0000000112   00 72 2D 00 00 00 8E 2A 00 00 00 00 1B 3A 00 00   .r-....*.....:..
+0000000128   04 00 74 65 73 74 33 03 4C 01 00 00 00 00 00 00   ..test3.L.......
+0000000144   16 00 16 00 06 00 E4 00 00 00 E4 00 00 00 00 00   ......ä...ä.....
+0000000160   00 00 04 64 2D 00 00 00 65 2D 00 00 00 66 2D 00   ...d-...e-...f-.
+0000000176   00 00 87 2A 00 00 00 00                           ...*............
+   
+
+
+[29.08.2015 18:25:40]
+[ClientToModule, 0x2002, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:41]
+[ClientToModule, 0x7001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+level = 0
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   04 00 74 65 73 74                                 ..test..........
+   
+
+
+[29.08.2015 18:25:41]
+[ModuleToClient, 0xB001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:25:41]
+[ModuleToClient, 0x34A5, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:41]
+[ModuleToClient, 0x3013, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   0F 76 99 A5 1B 3A 00 00 33 03 03 4C 01 00 00 00   .v.¥.:..3..L....
+0000000016   00 00 00 68 01 00 00 00 00 00 00 00 00 00 00 0B   ...h............
+0000000032   00 00 00 06 00 00 00 00 00 00 E4 00 00 00 E4 00   ..........ä...ä.
+0000000048   00 00 01 00 00 00 00 00 00 00 00 00 2D 07 01 00   ............-...
+0000000064   00 00 00 64 2D 00 00 00 00 00 00 00 00 00 00 00   ...d-...........
+0000000080   27 00 00 00 00 01 00 02 00 04 00 00 00 00 65 2D   '.............e-
+0000000096   00 00 00 00 00 00 00 00 00 00 00 27 00 00 00 00   ...........'....
+0000000112   01 00 02 00 05 00 00 00 00 66 2D 00 00 00 00 00   .........f-.....
+0000000128   00 00 00 00 00 00 27 00 00 00 00 01 00 02 00 06   ......'.........
+0000000144   00 00 00 00 87 2A 00 00 00 00 00 00 00 00 00 00   .....*..........
+0000000160   00 3F 00 00 00 00 01 00 02 00 0D 00 00 00 00 42   .?.............B
+0000000176   1D 00 00 01 00 0E 00 00 00 00 43 1D 00 00 01 00   ..........C.....
+0000000192   0F 00 00 00 00 8E 28 00 00 14 00 05 00 00 01 01   ......(.........
+0000000208   02 00 00 00 01 02 02 00 00 00 01 03 02 00 00 00   ................
+0000000224   01 04 02 00 00 00 01 05 02 00 00 00 01 06 02 00   ................
+0000000240   00 00 02 00 02 01 00 01 00 00 00 01 8D 01 00 00   ................
+0000000256   10 00 18 08 01 01 00 16 00 53 4E 5F 43 4F 4E 5F   .........SN_CON_
+0000000272   51 45 56 5F 41 4C 4C 5F 42 41 53 49 43 5F 30 01   QEV_ALL_BASIC_0.
+0000000288   00 00 00 00 00 00 00 00 00 8A DD 02 00 87 5C 4D   ..........Ý...\M
+0000000304   0D 4E 44 62 49 74 43 65 B9 A9 43 AA 73 00 01 00   .NDbItCe¹©Cªs...
+0000000320   AA 73 00 00 00 00 00 00 80 41 00 00 48 42 00 00   ªs.......A..HB..
+0000000336   C8 42 00 04 00 74 65 73 74 00 00 00 01 00 00 00   ÈB...test.......
+0000000352   00 00 00 00 00 00 00 00 00 00 00 00 FF 13 00 C0   ............ÿ..À
+0000000368   00 00 00 00 00 01 00 00 00 01 07 04 01 4A EA 03   .............Jê.
+0000000384   00 64 02 4A F0 03 00 64 03 4A EE 03 00 64 04 4A   .d.Jð..d.Jî..d.J
+0000000400   F8 03 00 64 00 00 00 00 00 00 00 00 01 00 01 00   ø..d............
+0000000416   00                                                ................
+   
+
+
+[29.08.2015 18:25:41]
+[ModuleToClient, 0x34A6, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:41]
+[ModuleToClient, 0x3020, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 00 14 19                           .Ý..............
+   
+
+
+[29.08.2015 18:25:43]
+[ClientToModule, 0x3012, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:43]
+[ClientToModule, 0x750E, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3809, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 C8                                             .È..............
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   19 08 00 00 E3 02 00 00 87 5C 52 88 10 44 7C CE   ....ã....\R..D|Î
+0000000016   73 43 00 80 3C 43 88 28 00 01 00 88 28 01 00 00   sC..<C.(....(...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 03   ...........ÈB...
+0000000048   01 02 04                                          ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 06 00                                          ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   30 08 00 00 03 00 00 00 87 5C 00 60 8D 44 00 80   0........\.`.D..
+0000000016   98 43 00 00 F4 43 00 00 01 00 00 01 00 00 00 00   .C..ôC..........
+0000000032   00 00 00 00 23 08 00 00 51 04 00 00 87 5C F6 C8   ....#...Q....\öÈ
+0000000048   8D 44 62 49 74 43 8F B2 18 44 B5 40 00 01 00 B5   .DbItC.².Dµ@...µ
+0000000064   40 01 00 00 00 00 00 00 00 00 00 00 00 00 00 C8   @..............È
+0000000080   42 00 02 03 01 02 03 15 0F 00 00 DC 04 00 00 87   B..........Ü....
+0000000096   5C CD 4C 8D 44 62 49 74 43 EC 51 B9 43 00 00 00   \ÍL.DbItCìQ¹C...
+0000000112   01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000128   00 00 C8 42 00 02 01 02 24 24 00 00 DD 04 00 00   ..ÈB....$$..Ý...
+0000000144   87 5C C3 B5 7A 44 62 49 74 43 85 CB F4 43 FF 7F   .\ÃµzDbItC.ËôCÿ.
+0000000160   00 01 00 FF 7F 01 00 00 00 00 00 00 00 00 00 00   ...ÿ............
+0000000176   00 00 00 C8 42 00 02 01 12 42 60 00 00 E8 04 00   ...ÈB....B`..è..
+0000000192   00 87 5C CD 4C 9B 44 62 49 74 43 CD AC FD 43 00   ..\ÍL.DbItCÍ¬ýC.
+0000000208   00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00   ................
+0000000224   00 00 00 00 C8 42 00 02 01 21 43 60 00 00 E9 04   ....ÈB...!C`..é.
+0000000240   00 00 87 5C 33 2B 9B 44 62 49 74 43 D7 A3 EA 43   ...\3+.DbItC×£êC
+0000000256   00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00   ................
+0000000272   00 00 00 00 00 C8 42 00 02 02 01 22               .....ÈB...."....
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   18 08 00 00 7A 02 00 00 87 5C 3D CA FA 43 2E 94   ....z....\=ÊúC..
+0000000016   73 43 48 91 3F 44 98 D9 00 01 00 98 D9 01 00 00   sCH.?D.Ù....Ù...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 04   ...........ÈB...
+0000000048   01 02 04 20                                       ... ............
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x303D, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   1B 00 00 00 21 00 00 00 0A 00 00 00 0C 00 00 00   ....!...........
+0000000016   0A 00 10 00 25 00 1A 00 E4 00 00 00 E4 00 00 00   ....%...ä...ä...
+0000000032   16 00 16 00                                       ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x30BF, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 04 04                                 .Ý..............
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x385F, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   00 03 01 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000016   00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 00   ................
+0000000032   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000048   00 00 00 00 00 00 00 00 00 00 06 00 00 00 00 00   ................
+0000000064   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0000000080   00 00 00 00 00 00 00 00 00 00 00                  ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3077, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   00 00                                             ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3305, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = False
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0xB50E, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 00                                             ................
+   
+
+
+[29.08.2015 18:25:43]
+[ModuleToClient, 0x3153, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   00 00 00 00 00 00 00 00 00 00 00 00               ................
+   
+
+
+[29.08.2015 18:25:44]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 87 5C 46 03 F4 00 DB 00                        ..\F.ô.Û........
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 87 5C 46 03 F4 00 DB 00 01 87 5C   .Ý....\F.ô.Û...\
+0000000016   32 20 62 49 74 43 42 0D                           2 bItCB.........
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   02 01 00                                          ................
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   7A 02 00 00                                       z...............
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   1B 08 00 00 7F 04 00 00 87 5B 1F D5 56 44 24 D0   .........[.ÕVD$Ð
+0000000016   73 43 EC 41 EA 44 FF 1F 00 01 00 FF 1F 01 00 00   sCìAêDÿ....ÿ....
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 02   ...........ÈB...
+0000000048   01 02                                             ................
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:44]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 87 5C 6E 03 F4 00 D4 00                        ..\n.ô.Ô........
+   
+
+
+[29.08.2015 18:25:44]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 87 5C 6E 03 F4 00 D4 00 01 87 5C   .Ý....\n.ô.Ô...\
+0000000016   53 20 62 49 74 43 1B 0C                           S bItC..........
+   
+
+
+[29.08.2015 18:25:45]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 87 5C FD 02 F4 00 6B 01                        ..\ý.ô.k........
+   
+
+
+[29.08.2015 18:25:45]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 87 5C FD 02 F4 00 6B 01 01 87 5C   .Ý....\ý.ô.k...\
+0000000016   ED 20 62 49 74 43 F1 0A                           í bItCñ.........
+   
+
+
+[29.08.2015 18:25:45]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 87 5C 79 03 F4 00 6D 01                        ..\y.ô.m........
+   
+
+
+[29.08.2015 18:25:45]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 87 5C 79 03 F4 00 6D 01 00         .Ý....\y.ô.m....
+   
+
+
+[29.08.2015 18:25:46]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 87 5C 5D 03 F4 00 08 02                        ..\].ô..........
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 87 5C 5D 03 F4 00 08 02 01 87 5C   .Ý....\].ô.....\
+0000000016   F2 20 62 49 74 43 3F 0C                           ò bItC?.........
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   02 01 00                                          ................
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   7F 04 00 00                                       ................
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0x3017, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 01 00                                          ................
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0x3019, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   18 08 00 00 7A 02 00 00 87 5C 3D CA FA 43 2E 94   ....z....\=ÊúC..
+0000000016   73 43 48 91 3F 44 98 D9 00 01 00 98 D9 01 00 00   sCH.?D.Ù....Ù...
+0000000032   00 00 00 00 00 00 00 00 00 00 00 C8 42 00 02 04   ...........ÈB...
+0000000048   01 02 04 20                                       ... ............
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0x3018, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:25:46]
+[ClientToModule, 0x7021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01 87 5C 45 03 F4 00 1D 02                        ..\E.ô..........
+   
+
+
+[29.08.2015 18:25:46]
+[ModuleToClient, 0xB021, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 01 87 5C 45 03 F4 00 1D 02 01 87 5C   .Ý....\E.ô.....\
+0000000016   FA 20 62 49 74 43 9D 0C                           ú bItC..........
+   
+
+
+[29.08.2015 18:25:47]
+[ClientToModule, 0x7005, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = False
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:25:34
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:25:47]
+[ModuleToClient, 0xB023, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:26:07
+[RelaySessionState dump end]
+0000000000   8A DD 02 00 87 5C FE 81 52 44 62 49 74 43 2A FC   .Ý...\þ.RDbItC*ü
+0000000016   C2 43 5B 41                                       ÂC[A............
+   
+
+
+[29.08.2015 18:25:47]
+[ModuleToClient, 0xB005, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:26:07
+[RelaySessionState dump end]
+0000000000   01 05 01                                          ................
+   
+
+
+[29.08.2015 18:25:52]
+[ModuleToClient, 0x300A, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:25:34
+ip_address = 25.94.235.125
+lastStall = 29.08.2015 18:25:34
+charname = test
+level = 3
+username = test
+proper_logout = True
+noticeDone = True
+isSafe = False
+lastExchange = 29.08.2015 18:25:34
+isBot = True
+lastLogOut = 29.08.2015 18:26:07
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:26:58]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:26:58]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:26:58]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:26:58]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:26:58]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:26:58]
+[ClientToModule, 0x6104, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16                                                ................
+   
+
+
+[29.08.2015 18:26:58]
+[ModuleToClient, 0xA104, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:26:58
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   00                                                ................
+   
+
+
+[29.08.2015 18:27:02]
+[ModuleToClient, 0x2001, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   0D 00 47 61 74 65 77 61 79 53 65 72 76 65 72 00   ..GatewayServer.
+   
+
+
+[29.08.2015 18:27:02]
+[ModuleToClient, 0x2005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 00 01 BA 02 05 00 00 00 02                     ...º............
+   
+
+
+[29.08.2015 18:27:02]
+[ModuleToClient, 0x6005, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   03 00 02 00 02                                    ................
+   
+
+
+[29.08.2015 18:27:02]
+[ClientToModule, 0x6100, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   16 09 00 53 52 5F 43 6C 69 65 6E 74 D5 00 00 00   ...SR_ClientÕ...
+   
+
+
+[29.08.2015 18:27:02]
+[ModuleToClient, 0xA100, False, True]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01                                                ................
+   
+
+
+[29.08.2015 18:27:07]
+[ClientToModule, 0x6106, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:27:07]
+[ModuleToClient, 0xA106, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 19 5E EB 7D                                 ...^ë}..........
+   
+
+
+[29.08.2015 18:27:07]
+[ClientToModule, 0x6101, True, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+   
+
+
+[29.08.2015 18:27:07]
+[ModuleToClient, 0xA101, False, False]
+[RelaySessionState dump begin]
+StartupTime = 29.08.2015 18:27:02
+ip_address = 25.94.235.125
+[RelaySessionState dump end]
+0000000000   01 14 1B 00 53 52 4F 5F 56 69 65 74 6E 61 6D 5F   ....SRO_Vietnam_
+0000000016   54 65 73 74 4C 6F 63 61 6C 20 5B 46 5D 20 30 00   TestLocal [F] 0.
+0000000032   01 40 00 0B 00 52 65 6E 61 69 73 73 61 6E 63 65   .@...Renaissance
+0000000048   00 00 E8 03 01 14 00                              ..è.............
+   
+
+

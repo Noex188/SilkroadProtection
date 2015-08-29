@@ -1,0 +1,5 @@
+C:\Work\sroprot_git\sroprot\obj\x86\Debug\sroprot.exe
+C:\Work\sroprot_git\sroprot\obj\x86\Debug\sroprot.pdb
+C:\Work\sroprot_git\sroprot\bin\Debug\sroprot.exe
+C:\Work\sroprot_git\sroprot\bin\Debug\sroprot.pdb
+C:\Work\sroprot_git\sroprot\obj\x86\Debug\sroprot.csprojResolveAssemblyReference.cache

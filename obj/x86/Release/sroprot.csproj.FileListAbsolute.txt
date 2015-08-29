@@ -1,0 +1,14 @@
+C:\Work\sroprot_git\sroprot\bin\Release\sroprot.exe
+C:\Work\sroprot_git\sroprot\bin\Release\sroprot.pdb
+C:\Work\sroprot_git\sroprot\obj\x86\Release\sroprot.exe
+C:\Work\sroprot_git\sroprot\obj\x86\Release\sroprot.pdb
+C:\Work\Projects\sroprot\obj\x86\Release\sroprot.exe
+C:\Work\Projects\sroprot\obj\x86\Release\sroprot.pdb
+C:\Work\Projects\sroprot\bin\Release\sroprot.exe
+C:\Work\Projects\sroprot\bin\Release\sroprot.pdb
+C:\Work\Projects\sroprot\obj\x86\Release\sroprot.csprojResolveAssemblyReference.cache
+E:\Users\EBALA\Desktop\Projects\sroprot\obj\x86\Release\sroprot.exe
+E:\Users\EBALA\Desktop\Projects\sroprot\obj\x86\Release\sroprot.pdb
+E:\Users\EBALA\Desktop\Projects\sroprot\bin\Release\sroprot.exe
+E:\Users\EBALA\Desktop\Projects\sroprot\bin\Release\sroprot.pdb
+E:\Users\EBALA\Desktop\Projects\sroprot\obj\x86\Release\sroprot.csprojResolveAssemblyReference.cache
